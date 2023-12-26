@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# React
+build/
+dist/
+*.env
+
+# Next.js
+.next/
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.log
+
+# Java
+*.class
+*.jar
+
+# Ruby
+*.gem
+*.rbc
+.bundle
+/vendor/
+
+# PHP
+composer.phar
+/vendor/
